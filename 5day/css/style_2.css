@@ -1,0 +1,49 @@
+body{
+	font-weight:bold;
+}
+.left h1{
+	color:white;
+	text-align:center;
+	margin-top:100px;
+	
+}
+.right {
+	float:left;
+	width:60%;
+}
+p{
+	display:inline;
+	margin-right:50px;
+
+}
+.rr,
+.ll{
+	margin-left:20px;
+}
+
+.left{
+	display:block;
+	float:left;
+	background:blue;
+	color:blue;
+	width:20%;
+	height:640px;
+	
+}
+.content h3{
+	margin-bottom:5px;
+}
+.content .rr{
+	margin-top:5px;
+	margin-bottom:20px;
+}
+.content p{
+	
+	margin-top:5px;
+
+}
+h4{
+	display:black;
+	margin-top:20px;
+	margin-bottom:5px;
+}
